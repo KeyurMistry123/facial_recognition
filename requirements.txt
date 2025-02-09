@@ -4,4 +4,4 @@ opencv-python-headless
 Pillow
 mtcnn
 numpy
-tensorflow
+tf-keras
